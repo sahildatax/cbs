@@ -1,0 +1,1 @@
+{'adutiyaari': ('COMPLETE ARITHMETIC ADUTIYA', "['PART1 15 CLASSES', 'PART2 15 CLASSES', 'Back']", "['GAJM_part115classes', 'USEY_part215classes', 'math']")}

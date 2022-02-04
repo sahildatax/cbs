@@ -1,0 +1,21 @@
+from pyrogram import Client
+from generator import app, sudo_users
+from classroom.bot.helper.utils import get_formatted_chat
+from classroom.bot.helper.links import get_links
+from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
+
+
+async def mydata(client,callback_query):
+  if str(callback_query.message.chat.id) in sudo_users:
+    txt=callback_query.data
+    listx = {'ZHCG_noun33': ('NOUN33', "['1314', '1315', '1316', '1317', '1318', '1319', '1320', '1321', '1322', '1323', '1324', '1325', '1326', '1327', '1328', '1329', '1330', '1331', '1332', '1333', '1334', '1335', '1336', '1337', '1338', '1339', '1340', '1341', '1342', '1343', '1344', '1345']", 'ankul')}
+    d = dict(listx)
+    vx = d[txt]
+
+    if txt in listx:
+      await get_links(eval(vx[1]),vx[0],vx[2],client,callback_query)
+
+
+  else:
+    await client.send_message(chat_id=callback_query.message.chat.id,
+                        text=f"What are you doing buddy.")

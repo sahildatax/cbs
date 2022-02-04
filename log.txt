@@ -1,0 +1,388 @@
+[2022-01-25 15:14:11,319 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 15:15:00,226 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 15:15:49,136 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 15:15:49,659 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 15:15:49,659 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.147:8080/ (Press CTRL+C to quit)
+[2022-01-25 15:15:52,166 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:15:52] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:15:58,136 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 15:17:27,830 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 15:17:28,274 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 15:17:28,275 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.17:8080/ (Press CTRL+C to quit)
+[2022-01-25 15:17:28,479 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:17:28] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:17:28,963 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:17:28] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:20:47,833 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 15:20:48,321 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 15:20:48,325 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 15:20:48,523 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:20:48] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:20:48,953 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:20:48] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:21:41,510 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 15:21:41,939 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 15:21:41,939 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 15:21:42,411 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:21:42] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:34:42,950 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:34:42] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:34:44,397 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:34:44] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:45:02,132 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:45:02] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:45:05,513 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:45:05] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:47:49,413 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 15:48:06,153 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 15:48:06,535 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 15:48:06,536 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 15:48:07,234 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:48:07] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:48:38,491 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] name 'os' is not defined
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/telegram-message-forwarder-bot-3/bot/__main__.py", line 38, in forward
+    if os.path.isfile('btop.txt'):
+NameError: name 'os' is not defined
+[2022-01-25 15:49:14,418 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 15:49:14,832 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 15:49:14,833 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 15:49:15,323 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:49:15] "GET / HTTP/1.1" 200 -
+[2022-01-25 15:59:12,015 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 15:59:12] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:07:56,749 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:07:56] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:07:59,106 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:07:59] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:08:02,119 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:08:02] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:08:04,049 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:08:04] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:08:06,366 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:08:23,870 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 16:08:24,332 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:08:24,332 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:08:24,918 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:08:24] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:08:53,606 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] write() argument must be str, not dict
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/telegram-message-forwarder-bot-3/bot/__main__.py", line 72, in forward
+    callbx2.write(l2)
+TypeError: write() argument must be str, not dict
+[2022-01-25 16:09:39,726 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 16:09:40,226 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:09:40,226 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:09:41,330 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:09:41] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:09:59,176 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] unexpected EOF while parsing (<string>, line 0)
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/telegram-message-forwarder-bot-3/bot/__main__.py", line 67, in forward
+    x = eval(l1)
+  File "<string>", line 0
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-01-25 16:20:11,489 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:20:11] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:20:12,197 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:20:12] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:24:39,392 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 16:24:39,903 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:24:39,904 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:25:27,525 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:25:27] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:29:09,350 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 16:29:09,823 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:29:09,824 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:29:10,286 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:29:10] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:30:19,328 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:30:34,396 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 16:30:34,871 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:30:34,871 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:30:35,407 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:30:35] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:30:42,490 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] name 'merge_two_dicts' is not defined
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/telegram-message-forwarder-bot-3/bot/__main__.py", line 87, in forward
+    l2 = merge_two_dicts(x, y)
+NameError: name 'merge_two_dicts' is not defined
+[2022-01-25 16:30:50,320 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] name 'merge_two_dicts' is not defined
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/telegram-message-forwarder-bot-3/bot/__main__.py", line 87, in forward
+    l2 = merge_two_dicts(x, y)
+NameError: name 'merge_two_dicts' is not defined
+[2022-01-25 16:31:22,912 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:31:39,621 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 16:31:40,109 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:31:40,111 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:31:40,572 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:31:40] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:32:47,685 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:33:03,012 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 16:33:03,499 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:33:03,499 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:33:04,194 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:33:04] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:36:46,176 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:38:05,393 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 16:38:05,831 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:38:05,832 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:38:06,318 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:38:06] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:40:57,693 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 16:40:58,141 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:40:58,141 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:40:58,639 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:40:58] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:43:14,433 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 16:43:14,955 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:43:14,956 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:43:16,349 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:43:16] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:44:19,840 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:45:21,738 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 16:45:22,197 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:45:22,197 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:45:22,705 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:45:22] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:45:42,853 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:45:58,986 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 16:45:59,400 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:45:59,400 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:45:59,893 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:45:59] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:47:31,948 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:47:31] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:47:44,503 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:47:44] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:48:22,391 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:48:38,148 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 16:48:38,601 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:48:38,602 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:48:39,117 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:48:39] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:53:34,729 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 16:53:35,210 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:53:35,215 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:53:37,105 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:53:37] "GET / HTTP/1.1" 200 -
+[2022-01-25 16:54:51,161 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 16:55:07,655 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 16:55:08,201 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 16:55:08,206 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 16:55:08,796 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 16:55:08] "GET / HTTP/1.1" 200 -
+[2022-01-25 17:05:20,394 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 17:05:20] "GET / HTTP/1.1" 200 -
+[2022-01-25 17:18:09,583 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 17:18:09] "GET / HTTP/1.1" 200 -
+[2022-01-25 17:28:25,276 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 17:28:25] "GET / HTTP/1.1" 200 -
+[2022-01-25 17:33:24,841 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 17:33:24] "GET / HTTP/1.1" 200 -
+[2022-01-25 17:43:36,497 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 17:43:36] "GET / HTTP/1.1" 200 -
+[2022-01-25 17:43:38,318 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 17:43:38] "GET / HTTP/1.1" 200 -
+[2022-01-25 17:48:48,974 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 17:48:49,500 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 17:48:49,500 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 17:48:50,482 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 17:48:50] "GET / HTTP/1.1" 200 -
+[2022-01-25 17:54:09,630 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 17:54:10,116 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 17:54:10,122 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 17:54:11,004 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 17:54:11] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:04:23,003 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:04:23] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:04:37,361 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:04:37] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:14:48,797 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:14:48] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:14:54,883 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:14:54] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:25:06,391 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:25:06] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:37:29,135 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:37:29] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:47:39,864 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:47:39] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:47:45,647 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:47:45] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:51:01,301 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 18:52:28,511 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 18:52:29,112 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 18:52:29,120 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 18:52:30,789 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:52:30] "GET / HTTP/1.1" 200 -
+[2022-01-25 18:56:06,721 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 18:56:23,647 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 18:56:24,126 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 18:56:24,127 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 18:56:24,995 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 18:56:24] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:06:37,279 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:06:37] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:06:42,689 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:06:42] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:08:02,811 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 19:08:19,410 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 19:08:51,140 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 19:08:51,604 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 19:08:51,604 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 19:08:52,560 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:08:52] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:19:03,227 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:19:03] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:20:45,109 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:20:45] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:30:55,715 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:30:55] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:30:58,432 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:30:58] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:31:45,945 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 19:31:46,496 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 19:31:46,496 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 19:31:47,490 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:31:47] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:41:58,104 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:41:58] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:42:00,321 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:42:00] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:42:03,474 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 19:42:23,062 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 19:42:23,608 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 19:42:23,621 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 19:42:24,527 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:42:24] "GET / HTTP/1.1" 200 -
+[2022-01-25 19:47:09,373 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 19:47:26,602 - /home/runner/telegram-message-forwarder-bot-3/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 19:47:27,200 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 19:47:27,225 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 19:47:28,057 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 19:47:28] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:27:17,440 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:27:17] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:37:29,883 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:37:29] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:37:33,382 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:37:33] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:46:13,958 - /home/runner/link/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 20:46:14,470 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 20:46:14,477 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 20:46:14,696 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:46:14] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:46:15,249 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:46:15] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:46:15,464 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:46:15] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:49:06,672 - /home/runner/link/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 20:49:07,271 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 20:49:07,311 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 20:49:08,314 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:49:08] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:58:14,387 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] write() argument must be str, not dict
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/link/bot/__main__.py", line 67, in forward
+    w1.write(xx)
+TypeError: write() argument must be str, not dict
+[2022-01-25 20:58:51,140 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] unexpected EOF while parsing (<string>, line 0)
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/link/bot/__main__.py", line 58, in forward
+    xx = eval(mnbx1)
+  File "<string>", line 0
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+[2022-01-25 20:59:18,931 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:59:18] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:59:21,165 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:59:21] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:59:29,016 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:59:29] "GET / HTTP/1.1" 200 -
+[2022-01-25 20:59:35,440 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 20:59:35] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:00:09,381 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] write() argument must be str, not dict
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/link/bot/__main__.py", line 67, in forward
+    w1.write(xx)
+TypeError: write() argument must be str, not dict
+[2022-01-25 21:00:27,081 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:00:27] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:00:33,192 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:00:33] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:02:37,472 - /home/runner/link/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 21:02:38,821 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 21:02:38,821 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 21:02:39,626 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:02:39] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:02:51,170 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] [Errno 2] No such file or directory: '/home/runner/link/FC/final.txt'
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/link/bot/__main__.py", line 81, in forward
+    shutil.copy(file, new)
+  File "/usr/lib/python3.8/shutil.py", line 418, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/usr/lib/python3.8/shutil.py", line 264, in copyfile
+    with open(src, 'rb') as fsrc, open(dst, 'wb') as fdst:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/link/FC/final.txt'
+[2022-01-25 21:04:19,351 - /home/runner/link/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 21:04:21,162 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 21:04:21,197 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 21:04:22,252 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:04:22] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:13:16,474 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:13:16] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:13:19,873 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:13:19] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:13:43,297 - /home/runner/link/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 21:13:44,187 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 21:13:44,187 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 21:13:45,002 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:13:45] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:14:14,071 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:14:14] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:24:25,554 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:24:25] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:24:27,466 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:24:27] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:25:20,254 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 21:25:42,275 - /home/runner/link/bot/__init__.py - INFO] Sudo users - [830785064, 1542508017]
+[2022-01-25 21:25:42,897 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 21:25:42,897 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 21:25:43,408 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:25:43] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:28:32,918 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 21:29:54,204 - /home/runner/link/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 21:29:55,225 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 21:29:55,226 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 21:29:55,907 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:29:55] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:40:10,462 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:40:10] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:40:11,034 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py - INFO] Stop signal received (SIGTERM). Exiting...
+[2022-01-25 21:40:38,528 - /home/runner/link/bot/__init__.py - INFO] Sudo users - [1542508017, 830785064]
+[2022-01-25 21:40:39,217 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2022-01-25 21:40:39,227 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO]  * Running on http://172.18.0.86:8080/ (Press CTRL+C to quit)
+[2022-01-25 21:40:39,733 - /opt/virtualenvs/python3/lib/python3.8/site-packages/werkzeug/_internal.py - INFO] 172.18.0.1 - - [25/Jan/2022 21:40:39] "GET / HTTP/1.1" 200 -
+[2022-01-25 21:41:52,477 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] 'gs'
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/link/bot/__main__.py", line 59, in batchgenerate
+    z0 = xx[str(nfzlinkr58)][0]
+KeyError: 'gs'
+[2022-01-25 21:42:01,366 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] 'gs'
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/link/bot/__main__.py", line 59, in batchgenerate
+    z0 = xx[str(nfzlinkr58)][0]
+KeyError: 'gs'
+[2022-01-25 21:43:22,185 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] 'te'
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/link/bot/__main__.py", line 59, in batchgenerate
+    z0 = xx[str(nfzlinkr58)][0]
+KeyError: 'te'
+[2022-01-25 21:43:24,799 - /opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py - ERROR] 'text'
+Traceback (most recent call last):
+  File "/opt/virtualenvs/python3/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 224, in handler_worker
+    await self.loop.run_in_executor(
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/runner/link/bot/__main__.py", line 59, in batchgenerate
+    z0 = xx[str(nfzlinkr58)][0]
+KeyError: 'text'

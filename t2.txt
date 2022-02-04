@@ -1,0 +1,11 @@
+
+    d = dict(listx)
+    vx = d[txt]
+
+    if txt in listx:
+      await get_links(eval(vx[1]),vx[0],vx[2],client,callback_query)
+
+
+  else:
+    await client.send_message(chat_id=callback_query.message.chat.id,
+                        text=f"What are you doing buddy.")

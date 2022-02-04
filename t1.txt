@@ -1,0 +1,11 @@
+from pyrogram import Client
+from generator import app, sudo_users
+from classroom.bot.helper.utils import get_formatted_chat
+from classroom.bot.helper.links import get_links
+from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
+
+
+async def mydata(client,callback_query):
+  if str(callback_query.message.chat.id) in sudo_users:
+    txt=callback_query.data
+    listx = 
